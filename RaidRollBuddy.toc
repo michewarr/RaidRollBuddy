@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: RaidRollBuddy
+## Author: Klausdieter
+## Version: 1.0.0
+## Notes: Make loot rolls obvious and easy
+## SavedVariables:FrameShownDuration
+
+RaidRollBuddy.lua
