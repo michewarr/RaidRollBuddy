@@ -86,9 +86,9 @@ local function CreateRollButtons(frame)
 
   -- SR Button
   RollSRButton:SetPoint("TOPRIGHT", frame, "TOPRIGHT", -8, -48) -- Position at the top right
-  RollSRButton:SetText("SR")
+  RollSRButton:SetText("TM")
   RollSRButton:SetScript("OnClick", function()
-    RandomRoll(1, 101)
+    RandomRoll(1, 98)
   end)
 end
 
