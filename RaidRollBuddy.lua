@@ -341,7 +341,7 @@ local function HandleChatMessage(event, message, from)
       end
     end
   elseif event == "ADDON_LOADED" and arg1 == "RaidRollBuddy" then
-    if not FrameShownDuration then FrameShownDuration = 15 end
+    if not FrameShownDuration then FrameShownDuration = 10 end
   end
 end
 
